@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="register_check">필수항목입니다. 모두 입력하세요.</string>
+    <string name="register_check2">이메일을 바르게 입력하세요.</string>
+    <string name="register_edit1">이메일 입력</string>
+    <string name="register_edit2">비밀번호 입력</string>
+</resources>
